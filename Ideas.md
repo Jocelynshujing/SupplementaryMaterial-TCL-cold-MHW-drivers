@@ -2,6 +2,7 @@
 Chapter 4 work
 
 Based on our previous findings of 7 types of MHW vertical structures, we found the cluster 1 (mixed-layer MHW) and cluster 2 (thermocline MHWs with cold surface) types occured in southeast Pacific Ocean more than other regions.
+
 <img width="5332" height="2576" alt="7clustering_profile_counts_within20by5boxregion_meanprofile (2)" src="https://github.com/user-attachments/assets/1066b540-6ce9-4da4-a831-b9ec12b12fe3" />
 For MHW events, we found that the cluster 1 and 2 dominant MHW events are concentrated within 15-30S, 100W-120W region.
 <img width="5370" height="2370" alt="global_7clusterdominatedMHWs_box_SoutheastPacific_region" src="https://github.com/user-attachments/assets/0e62c709-b4bd-47bd-ae37-a473accba8d8" />
