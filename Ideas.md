@@ -15,7 +15,7 @@ To overview these 14 events. I made temporal changes of each event horizontal ra
 Among them, two events stand out: one from January to June 2004, and another from December 2005 to February 2006. Both exhibit similar spatial evolution—expanding westward and northward across the Pacific, while deepening from the mixed layer into the thermocline in the extended regions. The 2005–2006 event, however, evolved more rapidly.
 
 To explore the oceanic and atmospheric drivers of two events, I downloaded the data below
-- ERA5 Monthly mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. Calculate their monthly anomalies to the mean climatology (2003 Jan to 2006 Dec).
+- ERA5 Monthly mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. Calculate their monthly anomalies to the mean climatology during 1993-2022.
 
 https://github.com/user-attachments/assets/6f8840de-5ac7-476c-858c-81e2d2c2eb04
 
