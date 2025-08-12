@@ -14,15 +14,7 @@ To overview these 14 events. I made temporal changes of each event horizontal ra
 
 Among them, two events stand out: one from January to June 2004, and another from December 2005 to February 2006. Both exhibit similar spatial evolution—expanding westward and northward across the Pacific, while deepening from the mixed layer into the thermocline in the extended regions. The 2005–2006 event, however, evolved more rapidly.
 
-To explore the oceanic and atmospheric drivers of two events, I downloaded the data below. All these dataset have 1/4 spatial resolution. ERA5 and sea level data have both daily and monthly mean. Wind stress has only monthly mean.
-- ERA5 Monthly mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. Calculate their monthly anomalies to the mean climatology during 1993-2022.
-
-https://github.com/user-attachments/assets/6f8840de-5ac7-476c-858c-81e2d2c2eb04
-
-- Copernicus Climate Change Service (C3S) sea level anomaly gridded data vDT2021 from 1993 to 2023  (want to download vDT2024 by using python codes from [Copernicus Marine Service](https://doi.org/10.48670/moi-00148)). The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
-  
-https://github.com/user-attachments/assets/38115e9c-182a-493c-b468-a1c4cdec8049
-
-
-- Global Ocean Monthly Mean Sea Surface Wind and Stress from Scatterometer and Model [to download](https://doi.org/10.48670/moi-00181)
-
+To explore the oceanic and atmospheric drivers of two events, I downloaded the data below. All these dataset have 1/4 spatial resolution. daily ERA5 air-sea heat fluxes, daily C3S sea level anomaly, daily ERA5 10m wind speed, wind stress and resultent ekman pumping anomaly.
+- ERA5 daily mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. -> Daily anomalies referecened to climatology of 1993-2022
+- Copernicus marine Climate Change Service (C3S) sea level anomaly gridded data from 2003.1.1 to 2006.12.31  The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
+- ERA5 daily 10-m wind speed during 1993-2020. Calculate wind stress and ekman pumping anomaly during 2003-2006.
