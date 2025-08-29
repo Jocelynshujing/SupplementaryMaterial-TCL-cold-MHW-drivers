@@ -12,9 +12,9 @@ To explore the oceanic and atmospheric drivers of two events, I downloaded the d
 - ERA5 daily mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. -> Daily anomalies referecened to climatology of 1993-2022
 - Copernicus marine Climate Change Service (C3S) sea level anomaly gridded data from 2003.1.1 to 2006.12.31  The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
 - ERA5 daily 10-m wind speed during 1993-2020. Calculate wind stress and ekman pumping anomaly during 2003-2006.
+<img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
 
 
-<img width="5332" height="2576" alt="7clustering_profile_counts_within20by5boxregion_meanprofile (2)" src="https://github.com/user-attachments/assets/1066b540-6ce9-4da4-a831-b9ec12b12fe3" />
 For MHW events, we found that the cluster 1 and 2 dominant MHW events are concentrated within 15-30S, 100W-120W region.
 <img width="5370" height="2370" alt="global_7clusterdominatedMHWs_box_SoutheastPacific_region" src="https://github.com/user-attachments/assets/0e62c709-b4bd-47bd-ae37-a473accba8d8" />
 In this box region, it experienced 14 long-persistent MHW events and 12 are dominated by cluster 1 and cluster 2.
