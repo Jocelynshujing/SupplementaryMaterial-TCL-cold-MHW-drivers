@@ -31,7 +31,7 @@ Potential Drivers:
 
 
 ### 2004 MHW
-#### Fig.1 Spatial Distributions of  MHW severity during 2003-2004 for depths 0-50m and 50-200m.
+#### Fig.1 Spatial Distributions of  MHW severity during 2003-2004 for depths 0-50m and 50-200m. The mixed layer depth is ~50m and thermocline depth is ~200m.
 <img width="2845" height="5543" alt="spatial_dist_mhws_severity_0-50m_50-200m_GLORYS_200307-200412" src="https://github.com/user-attachments/assets/7d7c3c5c-a9de-45a3-b70c-fb62547f8c84" />
 
 #### Fig.2 MHW transects in 4 subregions during 2003-2004.
