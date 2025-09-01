@@ -43,6 +43,7 @@ It's interesting that the thermocline deepening and associated warming peak has 
 ### 2005-2006 MHW
 
 #### Fig.3 Spatial Distributions of  MHW severity during 2004-2005 for depths 0-50m and 50-200m.
+<img width="2845" height="5543" alt="spatial_dist_mhws_severity_0-50m_50-200m_GLORYS_200501-200604" src="https://github.com/user-attachments/assets/a19689b1-e53e-4d15-8a41-91b2888e0ea1" />
 
 
 #### Fig.4 MHW transects in 9 subregions during 2004-2005.
