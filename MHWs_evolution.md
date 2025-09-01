@@ -5,7 +5,7 @@ Based on our previous findings of 7 types of MHW vertical structures, we found t
 <img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
 
 
-
+The MHW tracks showed two outstanding MHW events, one from January to June 2004, and another from December 2005 to February 2006. Both exhibit similar spatial evolution—expanding westward and northward across the Pacific, while deepening from the mixed layer into the thermocline in the extended regions. The 2005–2006 event, however, evolved more rapidly.
 <img width="1946" height="498" alt="image" src="https://github.com/user-attachments/assets/4e4316be-c251-4043-a7ad-945a684814fb" />
 
 | Metrics | 2004 MHW | 2005-2006 MHW | 
