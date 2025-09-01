@@ -6,7 +6,7 @@ Based on our previous findings of 7 types of MHW vertical structures, we found t
 
 For MHW events, we found that the ML MHW and TCL-cold MHW events are concentrated within 15-30S, 100W-120W region.
 <img width="5370" height="2370" alt="global_7clusterdominatedMHWs_box_SoutheastPacific_region" src="https://github.com/user-attachments/assets/0e62c709-b4bd-47bd-ae37-a473accba8d8" />
-In this box region, it experienced 14 long-persistent MHW events and 12 are dominated by cluster 1 and cluster 2.
+In this box region, it experienced 14 long-persistent MHW events and 12 are dominated by ML and TCL-cold types.
 <img width="4170" height="1765" alt="cluster_proportion_allMHWevents" src="https://github.com/user-attachments/assets/dc6610d9-f497-418d-9b73-6aea6f0e3cc7" />
 
 The MHW tracks showed two outstanding MHW events, one from January to June 2004, and another from December 2005 to February 2006. Both exhibit similar spatial evolution—expanding westward and northward across the Pacific, while deepening from the mixed layer into the thermocline in the extended regions. The 2005–2006 event, however, evolved more rapidly.
