@@ -1,7 +1,7 @@
 MHW in the mixed layer: depth-mean MHW severity index between 0-50m >1
 MHW in the thermocline: depht-mean MHW severity index between 50-200m >1. 
 
-MHW profiles in 4 subregions .
+Fig.2 MHW transects in 4 subregions during 2003-2004.
 Surface MHW developed its broad pattern in 2003 September and decayed after 2003 November. 
 During September to next March, when the mixed layer gets shoarled, and the MHW left the mixed layer and propagate downward into the upper thermocline. 
 From March to Septemberue, when surface cools, the MHW in the thermocline deepens along with the seasonal deepening of thermocline.
@@ -14,6 +14,7 @@ northwest: single long MHW, deepens  in April, June and August
 southwest: single long MHW, April, June and August. 
 It's interesting that the thermocline deepening and associated warming peak has a lag of 1-3 months. 
 
+Fig.4 
 
 
 
