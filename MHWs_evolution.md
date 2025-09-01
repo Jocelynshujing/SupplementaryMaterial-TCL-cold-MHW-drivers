@@ -1,5 +1,11 @@
 ## Chapter 4: Spatiotemporal Evolutions of Two Significant MHW Events in the Southeast Pacific during 2004-2006
 
+
+Based on our previous findings of 7 types of MHW vertical structures, we found the mixed-layer MHW and Thermocline MHWs with cold surface types occured in southeast Pacific Ocean more than other regions.
+<img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
+
+
+
 <img width="1946" height="498" alt="image" src="https://github.com/user-attachments/assets/4e4316be-c251-4043-a7ad-945a684814fb" />
 
 | Metrics | 2004 MHW | 2005-2006 MHW | 
