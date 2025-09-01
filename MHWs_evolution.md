@@ -40,7 +40,7 @@ Potential Drivers:
 
 Surface MHW developed its broad pattern in 2003 September and decayed after 2003 November. 
 During September to next March, when the mixed layer gets shoarled, and the MHW left the mixed layer and propagate downward into the upper thermocline. 
-From March to Septemberue, when surface cools, the MHW in the thermocline deepens along with the seasonal deepening of thermocline.
+From 2004 March to September, when surface cools, the MHW in the thermocline deepens along with the seasonal deepening of thermocline.
 During 2004 February to September, three enhanced warming occurred in the thermocline between 50-200m in those regions, likely driven by anomalous deepening of thermocline. 
 
 These warming led to a strengthening of MHW (severity >2) in the thermocline in the southeast region. Peaks: April, May, August
