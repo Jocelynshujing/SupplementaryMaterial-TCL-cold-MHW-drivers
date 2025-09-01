@@ -4,6 +4,10 @@
 Based on our previous findings of 7 types of MHW vertical structures, we found the mixed-layer MHW and Thermocline MHWs with cold surface types occured in southeast Pacific Ocean more than other regions.
 <img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
 
+For MHW events, we found that the cluster 1 and 2 dominant MHW events are concentrated within 15-30S, 100W-120W region.
+<img width="5370" height="2370" alt="global_7clusterdominatedMHWs_box_SoutheastPacific_region" src="https://github.com/user-attachments/assets/0e62c709-b4bd-47bd-ae37-a473accba8d8" />
+In this box region, it experienced 14 long-persistent MHW events and 12 are dominated by cluster 1 and cluster 2.
+<img width="4170" height="1765" alt="cluster_proportion_allMHWevents" src="https://github.com/user-attachments/assets/dc6610d9-f497-418d-9b73-6aea6f0e3cc7" />
 
 The MHW tracks showed two outstanding MHW events, one from January to June 2004, and another from December 2005 to February 2006. Both exhibit similar spatial evolution—expanding westward and northward across the Pacific, while deepening from the mixed layer into the thermocline in the extended regions. The 2005–2006 event, however, evolved more rapidly.
 <img width="1946" height="498" alt="image" src="https://github.com/user-attachments/assets/4e4316be-c251-4043-a7ad-945a684814fb" />
