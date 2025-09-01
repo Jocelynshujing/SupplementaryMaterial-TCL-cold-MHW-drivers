@@ -1,4 +1,6 @@
-<img width="1898" height="498" alt="image" src="https://github.com/user-attachments/assets/7383c6ea-f291-4596-bd50-3d1ec9e6311c" />
+## Chapter 4: Spatiotemporal Evolutions of Two Significant MHW Events in the Southeast Pacific during 2004-2006
+
+<img width="1946" height="498" alt="image" src="https://github.com/user-attachments/assets/4e4316be-c251-4043-a7ad-945a684814fb" />
 
 | Metrics | 2004 MHW | 2005-2006 MHW | 
 |--------|--------|-------------|
