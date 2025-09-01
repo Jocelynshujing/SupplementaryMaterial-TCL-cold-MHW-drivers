@@ -47,6 +47,7 @@ It's interesting that the thermocline deepening and associated warming peak has 
 
 
 #### Fig.4 MHW transects in 9 subregions during 2004-2005.
+<img width="4916" height="2644" alt="vertical_profile_mhws_severity_0-300m_GLORYS_200501-200604" src="https://github.com/user-attachments/assets/b23e5872-329a-4f08-a7e1-bd409059193b" />
 
 
 
