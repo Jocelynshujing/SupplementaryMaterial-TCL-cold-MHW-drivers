@@ -20,7 +20,7 @@ The MHW tracks showed two outstanding MHW events, one from January to June 2004,
 | Affected Area | 100W-170W (70 lon), 10S-25S (15 lat) | 150E-180, 180-70W (150 lon), 5S-35S (30 lat)|
 
  Commonality:
-- Occurred in the Southeast tropical Pacific,  belong to Mixed-layer dominant MHW
+- Occurred in the Southeast tropical and subtropical Pacific,  belong to Mixed-layer dominant MHW
 - Extended westward and northward
 - ML type on the east and TC-cold type on the west.
 
