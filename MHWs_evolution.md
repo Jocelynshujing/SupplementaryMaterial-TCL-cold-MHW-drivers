@@ -28,8 +28,6 @@ Potential Drivers:
 - Atmosphere:  Air-sea heat fluxes
 - Ocean:  wind-driven Ekman pumping;  Rossby waves;  spice changes?
 
-
-
 ### 2004 MHW
 #### Fig.1 Spatial Distributions of  MHW severity during 2003-2004 for depths 0-50m and 50-200m. The mixed layer depth is ~50m and thermocline depth is ~200m.
 <img width="2845" height="5543" alt="spatial_dist_mhws_severity_0-50m_50-200m_GLORYS_200307-200412" src="https://github.com/user-attachments/assets/7d7c3c5c-a9de-45a3-b70c-fb62547f8c84" />
@@ -37,18 +35,21 @@ Potential Drivers:
 #### Fig.2 MHW transects in 4 subregions during 2003-2004.
 <img width="3404" height="2182" alt="vertical_profile_mhws_severity_0-300m_GLORYS_200307-200412" src="https://github.com/user-attachments/assets/f60345bd-7c4b-45f2-b737-89396f08adaf" />
 
-
-Surface MHW developed its broad pattern in 2003 September and decayed after 2003 November. 
-During September to next March, when the mixed layer gets shoarled, and the MHW left the mixed layer and propagate downward into the upper thermocline. 
+Southeast subregion:
+Surface MHW developed in 2003 September and decayed after 2003 November. 
+From 2003 September to 2004 March, when the mixed layer gets shoarled, the surface MHW left the mixed layer and propagated downward into the upper thermocline. 
 From 2004 March to September, when surface cools, the MHW in the thermocline deepens along with the seasonal deepening of thermocline.
-During 2004 February to September, three enhanced warming occurred in the thermocline between 50-200m in those regions, likely driven by anomalous deepening of thermocline. 
 
-These warming led to a strengthening of MHW (severity >2) in the thermocline in the southeast region. Peaks: April, May, August
+All subregions:
+During 2004 February to September, three enhanced warming pattern is found in all subregions near the thermocline between 50-200m.
+The warming is likely driven by anomalous downward thermocline shift (northwest and northeast regions). 
+ 
+The warming led to a intensification of thermocline MHW (severity >2) in the southeast region which peaks during March-May, August-September.
 In the other three regions, the warming caused formation of subsurface MHWs.
-northeast: three short MHWs, January, April and July.
-northwest: single long MHW, deepens  in April, June and August
-southwest: single long MHW, April, June and August. 
-It's interesting that the thermocline deepening and associated warming peak has a lag of 1-3 months. 
+-  northeast: three short MHWs, January, April and July.
+- northwest: single long MHW, deepens in April, June and August
+- southwest: single long MHW, April, June and August. 
+The thermocline deepening and associated warming in the northwest has a 1-3 months time lag compared to those in the northeast. 
 
 ### 2005-2006 MHW
 
