@@ -49,7 +49,7 @@ In the other three regions, the warming caused formation of subsurface MHWs.
 -  northeast: three short MHWs, January, April and July.
 - northwest: single long MHW, deepens in April, June and August
 - southwest: single long MHW, April, June and August. 
-The thermocline deepening and associated warming in the northwest has a 1-3 months time lag compared to those in the northeast. 
+- The thermocline deepening and associated warming in the northwest has a 1-3 months time lag compared to those in the northeast. 
 
 ### 2005-2006 MHW
 
