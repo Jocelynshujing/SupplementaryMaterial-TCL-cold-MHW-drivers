@@ -12,12 +12,16 @@ To understand why these subsurface MHWs predominate the tropical Pacific, we are
 
 #### Overview of subsurface temperature extremes and MHWs
 <img width="3050" height="2286" alt="MHW_severity_hovmoller_MHWintensity_at_13depths" src="https://github.com/user-attachments/assets/23075cc8-584d-4638-ba9d-52471df362e9" />
+
 #### Statistics of MHWs at individual depths
 <img width="3570" height="866" alt="MHW_features_at_13depths" src="https://github.com/user-attachments/assets/33557dc1-c09b-4c36-bcc7-369c66d6e60a" />
+
 #### Below is severity distribution over depths when surface water in MHW conditions (a) and 200m water in MHW conditions (b)
 <img width="2970" height="1166" alt="surfaceMHW_vs_200mMHW_severity_profiles" src="https://github.com/user-attachments/assets/6ba97f24-eaf9-4378-9664-327482a406b7" />
+
 #### I split the severity profiles for 200m-MHWs into two types based on their sea surface temperature:  warm-surface and cold-surface 
 <img width="2585" height="1407" alt="200mMHW_severity_profiles_warm_vs_cold" src="https://github.com/user-attachments/assets/607b88e8-5688-4701-acdd-102295813ddf" />
+
 #### See how the cold-surface profiles distribute over time and MHW events
 <img width="3608" height="2367" alt="200mMHWs_sst_anom_timeevolution (1)" src="https://github.com/user-attachments/assets/182f4459-2fa7-429a-9157-aae6bff1930f" />
 
