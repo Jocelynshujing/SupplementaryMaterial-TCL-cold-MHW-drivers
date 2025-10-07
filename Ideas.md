@@ -15,7 +15,7 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 
 2) Once we get clusters, check if there is thermocline type with cold surface or warm surface. Then exmine their spatial distributions. -> see if they are similar to our previous findings for large-scale MHWs. If different, why? 
   
-3) For each types profiles,
+3) For each types profiles,  split to onset and decay phrases.
    * correlation between aomalous local Ekman pumping, and anomalous local temperature tendency over depths or anomalous thermocline depth changes -> check wind effect on thermocline
    * correlation between anomalous surface heat flux components and sea surface temperature anomaly -> check heat flux effect on surface
    * correlation between sea surface height anomaly and thermocline depth anomaly. Examine the spatial-temporal patterns of sea surface height to see if it is related to planetary waves? Can the sea surface height anomaly related to eddies? Need to check eddy track from AVISO dataset?
