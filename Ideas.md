@@ -1,6 +1,6 @@
 # Understanding-MHWs-in-case-region
 
-Our previous work indicates there are 7 common vertical types of large-scale MHWs in the global ocean and the tropical oceans appear to be hotspots for thermocline type with cold surface (negative sst anomaly). 
+Our previous work indicates there are 7 common vertical types of large-scale MHWs in the global ocean and the tropical Pacific ocean appears to be hotspots for thermocline type with cold surface (negative sst anomaly). 
 <img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
 
 Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by a thermocline deepening linked to local wind-driven downwelling, planetary waves, as well as ocean warm-core eddies. And their cold surface is linked to co-occurrence of enhanced surface heat loss driven by increased wind.
@@ -9,15 +9,17 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 
 1) We first identify all extreme warm temperature profiles over tropical ocean using daily ocean temperature (1 degree resolution) from BRAN2020 reanalysis dataset (1993.1.1-2022.12.31) and then make cluster for their severity index profiles.
 1. We calculate severity index (S) over all grid cells and at all depth levels in tropical ocean.
-2. We pick up the profiles when S>1 at any depth and last over 5 days. Analogy to Hobday definition. We can also test S>2 to look more extreme MHWs or S > 1 last over 10 or 20 days to look longer MHWs. See how the threshold affects the results.
+2. We pick up the profiles when S>1 at any depth and last over 5 days. Analogy to Hobday et al 2016 MHW definition. We can also test S>2 to look more extreme MHWs or S > 1 but last over 10 or 20 days to look longer MHWs. See how the threshold affects the results.
    * S > 2 means daily temperature is far over 90th climatological temperature on that given day by over 90th percentile difference to climatological mean. S > 2 here is analogous to the temperature threshold for MHW category II strong (Hobday et al. 2018).
-3. Then we did cluster over all these MHW-related extreme temperatore profiles.
+3. Then rescaled severity profile along depths and do clustering.
 
 2) Once we get clusters, check if there is thermocline type with cold surface or warm surface. Then exmine their spatial distributions. -> see if they are similar to our previous findings for large-scale MHWs. If different, why? 
   
-3) For thermocline-cold types profiles, do correlation local Ekman pumping, to local temperature tendency and thermocline depth changes -> check wind effect
-4) Do correlation of sea surface height to thermocline depths 
-5) 
+3) For each types profiles,
+   * correlation between aomalous local Ekman pumping, and anomalous local temperature tendency over depths or anomalous thermocline depth changes -> check wind effect on thermocline
+   * correlation between anomalous surface heat flux components and sea surface temperature anomaly -> check heat flux effect on surface
+   * correlation between sea surface height anomaly and thermocline depth anomaly. Examine the spatial-temporal patterns of sea surface height to see if it is related to planetary waves? Can the sea surface height anomaly related to eddies? Need to check eddy track from AVISO dataset?
+  
 
 #### Overview of subsurface temperature extremes and MHWs
 <img width="3050" height="2286" alt="MHW_severity_hovmoller_MHWintensity_at_13depths" src="https://github.com/user-attachments/assets/23075cc8-584d-4638-ba9d-52471df362e9" />
