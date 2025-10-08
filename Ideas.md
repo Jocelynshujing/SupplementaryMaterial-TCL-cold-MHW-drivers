@@ -41,13 +41,17 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 ## Data
 ### BRAN2020 DATA 
 - Data acess on NCI: /g/data/gb6/BRAN/BRAN2020/daily. 
-- Data horizontal resolution: 0.1 degree.
+- Data horizontal resolution: 0.1 degree. -> Need regriding onto 1*1 grid point. 
 - Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
+#### Daily averaged fields (sea level, mixed layer depth)
 - daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
-- daily mixed layer depth; files: ocean_mld_2017_08.nc 
-* MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
+- daily mixed layer depth; Files: ocean_mld_2017_08.nc Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
+#### Daily atmospheric flux diagnositics (zonal and meridional wind stress)
+- daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
+- daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
 
-To explore the oceanic and atmospheric drivers of two events, I downloaded the data below. All these dataset have 1/4 spatial resolution. daily ERA5 air-sea heat fluxes and wind speed, daily C3S sea level anomaly.
+### Other Daily fields (surface heat fluxes, JRA55, is daily available? )
+
 - ERA5 daily mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. -> Daily anomalies referecened to climatology of 1993-2022
 - Copernicus marine Climate Change Service (C3S) sea level anomaly gridded data from 2003.1.1 to 2006.12.31  The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
 - ERA5 daily 10-m wind speed during 1993-2020. Calculate wind stress and ekman pumping anomaly during 2003-2006.
