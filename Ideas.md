@@ -24,7 +24,8 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 ## Data
 ### BRAN2020 DATA 
 - Data acess on NCI: /g/data/gb6/BRAN/BRAN2020/daily. 
-- Data horizontal resolution: 0.1 degree. -> Need regriding onto 1*1 grid point. 
+- Data horizontal resolution: 0.1 degree. -> Need regriding onto 1*1 grid point.
+- Website: https://geonetwork.nci.org.au/geonetwork/srv/eng/catalog.search#/metadata/f9372_7752_2015_3718
 - Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
 #### Daily averaged fields (sea level, mixed layer depth)
 - daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
