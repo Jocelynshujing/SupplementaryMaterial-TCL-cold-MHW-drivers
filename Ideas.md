@@ -30,7 +30,7 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 #### Daily averaged fields (sea level, mixed layer depth)
 - daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
 - daily mixed layer depth; Files: ocean_mld_2017_08.nc Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
-#### Daily atmospheric flux diagnositics (zonal and meridional wind stress)
+#### Daily averaged atmospheric flux diagnositics (zonal and meridional wind stress)
 - daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
 - daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
 
