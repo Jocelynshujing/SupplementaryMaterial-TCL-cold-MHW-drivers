@@ -1,10 +1,11 @@
-# Understanding-MHWs-in-case-region
+# Understanding-MHWs-in-tropical-Pacific
 
+## Background
 Our previous work indicates there are 7 common vertical types of large-scale MHWs in the global ocean and the tropical Pacific ocean appears to be hotspots for thermocline type with cold surface (negative sst anomaly). 
 <img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
-
+## Hypothesis
 Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by a thermocline deepening linked to local wind-driven downwelling, planetary waves, as well as ocean warm-core eddies. And their cold surface is linked to co-occurrence of enhanced surface heat loss driven by increased wind.
-
+## Planned Analysis 
 Driven by the hypothesis, we conduct the following analysis to test whether it is right or not.
 
 1) We first identify all extreme warm temperature profiles over tropical ocean using daily ocean temperature (1 degree resolution) from BRAN2020 reanalysis dataset (1993.1.1-2022.12.31) and then make cluster for their severity index profiles.
@@ -19,8 +20,21 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
    * correlation between aomalous local Ekman pumping, and anomalous local temperature tendency over depths or anomalous thermocline depth changes -> check wind effect on thermocline
    * correlation between anomalous surface heat flux components and sea surface temperature anomaly -> check heat flux effect on surface
    * correlation between sea surface height anomaly and thermocline depth anomaly. Examine the spatial-temporal patterns of sea surface height to see if it is related to planetary waves? Can the sea surface height anomaly related to eddies? Need to check eddy track from AVISO dataset (https://www.aviso.altimetry.fr/en/data/products/value-added-products/global-mesoscale-eddy-trajectory-product.html).
-   * Need to check which forcing variable used for bran2020 data and does it have sea surface height?
-  
+
+## Data
+### BRAN2020 DATA 
+- Data acess on NCI: /g/data/gb6/BRAN/BRAN2020/daily. 
+- Data horizontal resolution: 0.1 degree. -> Need regriding onto 1*1 grid point. 
+- Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
+#### Daily averaged fields (sea level, mixed layer depth)
+- daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
+- daily mixed layer depth; Files: ocean_mld_2017_08.nc Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
+#### Daily atmospheric flux diagnositics (zonal and meridional wind stress)
+- daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
+- daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
+
+### Other Daily fields (surface heat fluxes, JRA55, is daily available? )
+
 
 #### Overview of subsurface temperature extremes and MHWs
 <img width="3050" height="2286" alt="MHW_severity_hovmoller_MHWintensity_at_13depths" src="https://github.com/user-attachments/assets/23075cc8-584d-4638-ba9d-52471df362e9" />
@@ -38,19 +52,6 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 <img width="3608" height="2367" alt="200mMHWs_sst_anom_timeevolution (1)" src="https://github.com/user-attachments/assets/182f4459-2fa7-429a-9157-aae6bff1930f" />
 
 
-## Data
-### BRAN2020 DATA 
-- Data acess on NCI: /g/data/gb6/BRAN/BRAN2020/daily. 
-- Data horizontal resolution: 0.1 degree. -> Need regriding onto 1*1 grid point. 
-- Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
-#### Daily averaged fields (sea level, mixed layer depth)
-- daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
-- daily mixed layer depth; Files: ocean_mld_2017_08.nc Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
-#### Daily atmospheric flux diagnositics (zonal and meridional wind stress)
-- daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
-- daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
-
-### Other Daily fields (surface heat fluxes, JRA55, is daily available? )
 
 - ERA5 daily mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. -> Daily anomalies referecened to climatology of 1993-2022
 - Copernicus marine Climate Change Service (C3S) sea level anomaly gridded data from 2003.1.1 to 2006.12.31  The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
