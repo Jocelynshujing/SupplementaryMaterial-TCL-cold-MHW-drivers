@@ -38,6 +38,11 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 <img width="3608" height="2367" alt="200mMHWs_sst_anom_timeevolution (1)" src="https://github.com/user-attachments/assets/182f4459-2fa7-429a-9157-aae6bff1930f" />
 
 
+## Data
+BRAN2020 DATA on NCI: /g/data/gb6/BRAN/BRAN2020/daily. Horizontal resolution: 0.1 degree.
+daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
+daily mixed layer depth; files: ocean_mld_2017_08.nc 
+
 To explore the oceanic and atmospheric drivers of two events, I downloaded the data below. All these dataset have 1/4 spatial resolution. daily ERA5 air-sea heat fluxes and wind speed, daily C3S sea level anomaly.
 - ERA5 daily mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. -> Daily anomalies referecened to climatology of 1993-2022
 - Copernicus marine Climate Change Service (C3S) sea level anomaly gridded data from 2003.1.1 to 2006.12.31  The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
