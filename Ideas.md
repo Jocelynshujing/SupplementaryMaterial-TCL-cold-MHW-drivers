@@ -39,10 +39,12 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 
 
 ## Data
-BRAN2020 DATA on NCI: /g/data/gb6/BRAN/BRAN2020/daily. Horizontal resolution: 0.1 degree.
-Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
-daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
-daily mixed layer depth; files: ocean_mld_2017_08.nc 
+### BRAN2020 DATA 
+- Data acess on NCI: /g/data/gb6/BRAN/BRAN2020/daily. 
+- Data horizontal resolution: 0.1 degree.
+- Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
+- daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
+- daily mixed layer depth; files: ocean_mld_2017_08.nc 
 * MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
 
 To explore the oceanic and atmospheric drivers of two events, I downloaded the data below. All these dataset have 1/4 spatial resolution. daily ERA5 air-sea heat fluxes and wind speed, daily C3S sea level anomaly.
