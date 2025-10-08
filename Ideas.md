@@ -9,10 +9,10 @@ Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by 
 Driven by the hypothesis, we conduct the following analysis to test whether it is right or not.
 
 1) We first identify all extreme warm temperature profiles over tropical ocean using daily ocean temperature (1 degree resolution) from BRAN2020 reanalysis dataset (1993.1.1-2022.12.31) and then make cluster for their severity index profiles.
-1. We calculate severity index (S) over all grid cells and at all depth levels in tropical ocean.
-2. We pick up the profiles when S>1 at any depth and last over 5 days. Analogy to Hobday et al 2016 MHW definition. We can also test S>2 to look more extreme MHWs or S > 1 but last over 10 or 20 days to look longer MHWs. See how the threshold affects the results.
+   - 1/ We calculate severity index (S) over all grid cells and at all depth levels in tropical ocean.
+   - 2/ We pick up the profiles when S>1 at any depth and last over 5 days. Analogy to Hobday et al 2016 MHW definition. We can also test S>2 to look more extreme MHWs or S > 1 but last over 10 or 20 days to look longer MHWs. See how the threshold affects the results.
    * S > 2 means daily temperature is far over 90th climatological temperature on that given day by over 90th percentile difference to climatological mean. S > 2 here is analogous to the temperature threshold for MHW category II strong (Hobday et al. 2018).
-3. Then rescaled severity profile along depths and do clustering.
+   - 3/ Then rescaled severity profile along depths and do clustering.
 
 2) Once we get clusters, check if there is thermocline type with cold surface or warm surface. Then exmine their spatial distributions. -> see if they are similar to our previous findings for large-scale MHWs. If different, why? 
   
