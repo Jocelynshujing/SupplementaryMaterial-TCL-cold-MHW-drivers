@@ -34,7 +34,20 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 - daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
 - daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
 
-### Other Daily fields (surface heat fluxes, JRA55, is daily available? )
+### JRA-55 3-Hourly Model Resolution 2-Dimensional Average Diagnostic Fields 
+1. Momentum flux, u-component;
+2. Momentum flux, v-component;
+3. Downward longwave radiation flux;
+4. Downward solar radiation flux;
+5. Upward longwave radiation flux;
+6. Upward solar radiation flux
+7. Sensible heat flux;
+8. Latent heat flux
+9. Evaporation;
+10. Total precipitation;
+
+- It is noted that BRAN2020 ocean model OFAM3 is forced by JRA55 atmospheric conditions and compute the atmospheroc fluxes via bulk formula, not directly use JRA55 flux fields.
+BRAN2020 has only outputs of atmospheric flux diagnostics for wind stress, no outputs for freshwater flux and surface heat flux. Therefore, we can only get these flux data from JRA55.
 
 
 #### Overview of subsurface temperature extremes and MHWs
