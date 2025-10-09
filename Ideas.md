@@ -28,13 +28,18 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 - Website: https://geonetwork.nci.org.au/geonetwork/srv/eng/catalog.search#/metadata/f9372_7752_2015_3718
 - Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
 #### Daily averaged fields (sea level, mixed layer depth)
+- daily ocea temperature.
 - daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
 - daily mixed layer depth; Files: ocean_mld_2017_08.nc Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
+  
 #### Daily averaged atmospheric flux diagnositics (zonal and meridional wind stress)
 - daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
 - daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
 
 ### JRA-55 3-Hourly Model Resolution 2-Dimensional Average Diagnostic Fields 
+- Data website: https://gdex.ucar.edu/datasets/d628000/dataaccess/#
+- Data resolution: 0.5 degree, 3hourly -> need to regrid to 1 *1 grid point and average in invidual day.
+- Parameters:
 1. Momentum flux, u-component;
 2. Momentum flux, v-component;
 3. Downward longwave radiation flux;
