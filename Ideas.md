@@ -27,32 +27,28 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 - Data horizontal resolution: 0.1 degree. -> Need regriding onto 1*1 grid point.
 - Website: https://geonetwork.nci.org.au/geonetwork/srv/eng/catalog.search#/metadata/f9372_7752_2015_3718
 - Literatures of BRAN2020: https://essd.copernicus.org/articles/13/5663/2021/#bib1.bibx8
-#### Daily averaged fields (sea level, mixed layer depth)
-- daily ocea temperature.
-- daily sea level; Files: /g/data ocean_eta_t_1993_01.nc 
-- daily mixed layer depth; Files: ocean_mld_2017_08.nc Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
+#### Daily averaged ocean fields (temperature, sea level, mixed layer depth)
+- ocean temperature.
+- sea level ~ Files: ocean_eta_t_1993_01.nc 
+- mixed layer depth ~ Files: ocean_mld_2017_08.nc
+- Note: MLD is the depth over which the buoyancy exceeds a threshold of 0.0003 m/s2, as described by Griffies (2012). It is roughly equivalent to a density threshold of Δρ ≈ 0.03 kg/m³.
   
-#### Daily averaged atmospheric flux diagnositics (zonal and meridional wind stress)
-- daily zonal wind stress; atm_flux_diag_1993_01.nc, tau_x. unit: pascal (Pa) 1 Pa = 1 N/m2
-- daily meridional wind stress; atm_flux_diag_1993_01.nc, tau_y. unit: pascal (Pa) 1 Pa = 1 N/m2
+#### Daily averaged atmospheric flux fields 
+- Data files: ocean_force_2022_02.nc
+##### Heat Fluxe Parameters:
+- longwave flux into ocean (<0 cools ocean) ~ lw_heat
+- sensible heat into ocean (<0 cools ocean) ~ sens_heat
+- latent heat flux into ocean (<0 cools ocean) ~ evap_heat
+- shortwave flux into ocean (>0 heats ocean) ~ swflx
+##### Freshwater Flux Parameters:
+- precip-evap via sbc (liquid, frozen, evaporation) ~pme_sbc
+- mass flux from evaporation/condensation (>0 enters ocean) ~evap
+- liquid precip (including ice melt/form) into ocean (>0 enters ocean) ~ lprec
+##### Momentum Flux Parameters:
+- i-directed wind stress forcing u-velocity ~ tau_x
+- j-directed wind stress forcing v-velocity ~ tau_y
 
-### JRA-55 3-Hourly Model Resolution 2-Dimensional Average Diagnostic Fields 
-- Data website: https://gdex.ucar.edu/datasets/d628000/dataaccess/#
-- Data resolution: 0.5 degree, 3hourly -> need to regrid to 1 *1 grid point and average in invidual day.
-- Parameters:
-1. Momentum flux, u-component;
-2. Momentum flux, v-component;
-3. Downward longwave radiation flux;
-4. Downward solar radiation flux;
-5. Upward longwave radiation flux;
-6. Upward solar radiation flux
-7. Sensible heat flux;
-8. Latent heat flux
-9. Evaporation;
-10. Total precipitation;
-
-- It is noted that BRAN2020 ocean model OFAM3 is forced by JRA55 atmospheric conditions and compute the atmospheroc fluxes via bulk formula, not directly use JRA55 flux fields.
-BRAN2020 has only outputs of atmospheric flux diagnostics for wind stress, no outputs for freshwater flux and surface heat flux. Therefore, we can only get these flux data from JRA55.
+- It is noted that BRAN2020 ocean model OFAM3 is forced by JRA55 atmospheric conditions and compute the atmospheroc fluxes via bulk formula.
 
 
 #### Overview of subsurface temperature extremes and MHWs
