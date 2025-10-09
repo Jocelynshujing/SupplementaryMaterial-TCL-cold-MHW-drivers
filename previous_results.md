@@ -1,4 +1,4 @@
-## This file is no longer updated, as I plan not to look into complex spatial evolutions of MHWs. Instead, the new established framework is introduced in intital results.md
+## This file is no longer updated, as I stop studying the complex spatial evolutions of MHWs. The new established framework of Chapter 4 is introduced in intital results.md.
 
 Titile: Spatiotemporal Evolutions of Two Significant MHW Events in the Southeast Pacific during 2004-2006
 
