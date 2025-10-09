@@ -1,4 +1,4 @@
-# Understanding-MHWs-in-tropical-Pacific
+# Chapter 4: Understanding-MHWs-in-tropical-Pacific
 
 ## Background
 Our previous work indicates there are 7 common vertical types of large-scale MHWs in the global ocean and the tropical Pacific ocean appears to be hotspots for thermocline type with cold surface (negative sst anomaly). 
@@ -47,7 +47,6 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 ##### Momentum Flux Parameters:
 - i-directed wind stress forcing u-velocity ~ tau_x
 - j-directed wind stress forcing v-velocity ~ tau_y
-
 - It is noted that BRAN2020 ocean model OFAM3 is forced by JRA55 atmospheric conditions and compute the atmospheroc fluxes via bulk formula.
 
 ## Initial results
@@ -65,9 +64,3 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 
 #### See how the cold-surface profiles distribute over time and MHW events
 <img width="3608" height="2367" alt="200mMHWs_sst_anom_timeevolution (1)" src="https://github.com/user-attachments/assets/182f4459-2fa7-429a-9157-aae6bff1930f" />
-
-
-
-- ERA5 daily mean surface heat flux (latent heat flux, sensible heat flux, net shortwave radiation, net longwave radiation, and their sum) from 1993Jan to 2022Dec. -> Daily anomalies referecened to climatology of 1993-2022
-- Copernicus marine Climate Change Service (C3S) sea level anomaly gridded data from 2003.1.1 to 2006.12.31  The sea level anomaly is provded with respect to the mean sea level during 1993-2012.
-- ERA5 daily 10-m wind speed during 1993-2020. Calculate wind stress and ekman pumping anomaly during 2003-2006.
