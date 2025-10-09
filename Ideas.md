@@ -50,7 +50,7 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 
 - It is noted that BRAN2020 ocean model OFAM3 is forced by JRA55 atmospheric conditions and compute the atmospheroc fluxes via bulk formula.
 
-
+## Initial results
 #### Overview of subsurface temperature extremes and MHWs
 <img width="3050" height="2286" alt="MHW_severity_hovmoller_MHWintensity_at_13depths" src="https://github.com/user-attachments/assets/23075cc8-584d-4638-ba9d-52471df362e9" />
 
