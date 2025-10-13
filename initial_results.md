@@ -4,7 +4,7 @@
 Our previous work indicates there are 7 common vertical types of large-scale MHWs in the global ocean and the tropical Pacific ocean appears to be hotspots for thermocline type with cold surface (negative sst anomaly). 
 <img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
 ## Hypothesis
-Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by a thermocline deepening linked to local wind-driven downwelling, planetary waves, as well as ocean warm-core eddies. These MHWs have a preference of cold surface, which is linked to co-occurrence of enhanced surface heat loss driven by increased wind.
+Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by thermocline deepening, driven by multiple mechanisms, like local wind-driven downwelling, planetary waves, as well as ocean warm-core eddies. These MHWs have a preference of cold surface, which could be linked to co-occurrence of enhanced evaporative surface heat loss driven by increased wind.
 ## Planned Analysis 
 Driven by the hypothesis, we conduct the following analysis to test whether it is right or not.
 
