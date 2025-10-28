@@ -13,6 +13,7 @@ In its central regions (90E-150E), where surface water is anomalously warm, MHWs
 While on the west (40-90E) and east sides (150-180E), where surface is cold anomaly, MHWs are dominated by TCL-cold types, although SM-cold type is also present in the equatorial Inidna Ocean. 
 <img width="3510" height="1524" alt="2010Nov_No287_MHWcluster_distribution" src="https://github.com/user-attachments/assets/dc51b881-e3cc-43c0-9026-26210bd97774" />
 
+The 2010 November MHW example suggtes that it's not true that all western tropical ocean during lanina are warm at surface. Some can be cold at surface, but subsurface gets warm. Why?  Many potential mehcanisms: 1) increased cloud cover reduces the incoming solar radiation, so cools the surface. 2) increased wind speed enhances the evaporative heat loss and cools the surface. 3) increased wind stress curl enhances the upwelling and cools the surface. but unlikely since thermocline warming. 2) Piled warm water deepens the thermocline, makes subsurface warming.  
 
 ## Hypothesis
 Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by thermocline deepening, driven by multiple mechanisms, like local wind-driven downwelling, planetary waves, as well as ocean warm-core eddies. These MHWs have a preference of cold surface, which could be linked to co-occurrence of enhanced evaporative surface heat loss driven by increased wind.
