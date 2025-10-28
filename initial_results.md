@@ -5,9 +5,12 @@ Our previous work indicates there are 7 common vertical types of large-scale MHW
 <img width="3875" height="2926" alt="GlobDist_MHW_byclusters_Dominant (1)" src="https://github.com/user-attachments/assets/00732c06-49db-4334-b21c-03629f23860a" />
 <img width="5308" height="3649" alt="7clustering_severity_profile_mean_std (5)" src="https://github.com/user-attachments/assets/1d71d4ac-7843-46f1-8520-4c06655145b2" />
 
-Take an snapshot of one TCL-cold type MHW during 2010 November Lanina, which occurred in the western tropoical Pacific and eastern tropical Indian Ocean. 
-In the surface warm area (central regions), MHW exhibits Mixed-layer, Deep and Submerged-verywarm types.
-On the west and east sides where surface is cold, MHW exhibits TCL-cold types. SM-cold type is also present on the west part in equatorial Inidna Ocean. 
+Correlation analysis with Nino3.4 index suggests more TCL-cold MHW types tend to occur during Lanina years (correlation coefficient = -0.23, p value < 0.01) and mostly found in the western tropical Pacific and eastern Indian Ocean, as well as south Indian Ocean.
+<img width="4732" height="3515" alt="7MHWprofileTypes_Nino34_correlation_maps (1)" src="https://github.com/user-attachments/assets/015f902a-95b1-46a9-a668-0036724a2241" />
+
+During 2010 November when Lanina persisted, one significant TCL-cold type MHW (#278) occurred over the western tropoical Pacific and eastern tropical Indian Ocean. 
+In its central regions (90E-150E), where surface water is anomalously warm, MHWs are dominated by mixed-layer, deep and submerged-verywarm types.
+While on the west (40-90E) and east sides (150-180E), where surface is cold anomaly, MHWs are dominated by TCL-cold types, although SM-cold type is also present in the equatorial Inidna Ocean. 
 <img width="3510" height="1524" alt="2010Nov_No287_MHWcluster_distribution" src="https://github.com/user-attachments/assets/dc51b881-e3cc-43c0-9026-26210bd97774" />
 
 
