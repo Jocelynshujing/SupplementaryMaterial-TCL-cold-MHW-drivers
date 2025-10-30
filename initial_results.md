@@ -53,17 +53,17 @@ Driven by the hypothesis, we conduct the following analysis to test whether it i
 #### Daily averaged atmospheric flux fields 
 - Data files: ocean_force_2022_02.nc
 ##### Heat Fluxe Parameters:
-- longwave flux into ocean (<0 cools ocean) ~ lw_heat
-- sensible heat into ocean (<0 cools ocean) ~ sens_heat
-- latent heat flux into ocean (<0 cools ocean) ~ evap_heat
-- shortwave flux into ocean (>0 heats ocean) ~ swflx
+- longwave flux into ocean (<0 cools ocean, unit: "W/m^2") ~ lw_heat
+- sensible heat into ocean (<0 cools ocean, unit: "W/m^2") ~ sens_heat
+- latent heat flux into ocean (<0 cools ocean, unit: "W/m^2") ~ evap_heat
+- shortwave flux into ocean (>0 heats ocean, unit: "W/m^2") ~ swflx
 ##### Freshwater Flux Parameters:
-- precip-evap via sbc (liquid, frozen, evaporation) ~pme_sbc
-- mass flux from evaporation/condensation (>0 enters ocean) ~evap
-- liquid precip (including ice melt/form) into ocean (>0 enters ocean) ~ lprec
+- precip-evap via sbc (liquid, frozen, evaporation, unit: (kg/m^3)*(m/sec)) ~pme_sbc
+- mass flux from evaporation/condensation (>0 enters ocean, unit:(kg/m^3)*(m/sec)) ~evap
+- liquid precip (including ice melt/form) into ocean (>0 enters ocean, unit: (kg/m^3)*(m/sec)) ~ lprec
 ##### Momentum Flux Parameters:
-- i-directed wind stress forcing u-velocity ~ tau_x
-- j-directed wind stress forcing v-velocity ~ tau_y
+- i-directed wind stress forcing u-velocity (unit: "N/m^2")~ tau_x
+- j-directed wind stress forcing v-velocity (unit: "N/m^2")~ tau_y
 - It is noted that BRAN2020 ocean model OFAM3 is forced by JRA55 atmospheric conditions and compute the atmospheroc fluxes via bulk formula.
 
 ## Initial results
