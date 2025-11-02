@@ -24,14 +24,17 @@ There's a west-east dipole pattern over equatorail pacific ocean. During Elnino,
 <img width="3952" height="1707" alt="regslope_nino34_swflx" src="https://github.com/user-attachments/assets/b4b4d93f-d581-4a56-967b-25bb86537976" />
 
 ### Regression map between Nino3.4 index (X) and cloud cover (Y).
-There is a west-east dipole over equatorial pacific consistent with net shorwave radiation flux. During Elnino, it's more cloudy across the braod east regions (150E-100W), which reduces the incoming solar radiation, cooling the ocean. While it's more clear sky in the west regions (90E-150E), that allows more solar radiation reach the ocean, warming the ocean. Lanina has opposite pattern with cloudy in the west regions (90E-150E) and clear sky across the braod east regions (150E-100W).
+There is a west-east dipole over equatorial pacific consistent with net shorwave radiation flux. During Elnino, it's more cloudy across the braod east regions (150E-100W), which reduces the incoming solar radiation, cooling the ocean. While it's more clear sky in the west regions (90E-150E), that allows more solar radiation reach the ocean, warming the ocean. Lanina has opposite pattern with cloudy sky  in the west regions (90E-150E) and clear sky across the braod east regions (150E-100W).
 <img width="3937" height="1709" alt="regslope_nino34_cloudcover" src="https://github.com/user-attachments/assets/cd92388e-bc07-48b2-9a81-f6d7c2d11c2b" />
 
 
 ### Regression map between Nino3.4 index (X) and net latent heat flux (Y). 
-During Elnino, evaporation is increased (blue) over the east equatorial Pacific (150W-80W) amd northeast and westsouth trpical pacific, cooling the ocean. While evaporation is decreased (red) over the west equatorail Pacific (160E-150W) warming the ocean. During lanina, pattern is opposite with warming over the east equatorial Pacific (150W-80W) amd northeast and westsouth trpical pacific and cooling over the west equatorail Pacific (160E-150W).
+During Elnino, evaporation is increased (blue) over the east equatorial Pacific (150W-80W) amd southwest trpical pacific, cooling the ocean. While evaporation is decreased (red) over the west equatorail Pacific (160E-150W) warming the ocean. During lanina, pattern is opposite with warming over the east equatorial Pacific (150W-80W) amd southwest trpical pacific and cooling over the west equatorail Pacific (160E-150W).
 <img width="3952" height="1707" alt="regslope_nino34_lhflx" src="https://github.com/user-attachments/assets/46a3b3fc-1afc-4239-b23f-b963e432971e" />
 
+### Regression map between Nino3.4 index (X) and 10-m Wind speed (Y).
+During Elnino, wind gets weaker in the central equatorial Pacificm, desceasing the ocean latent heat loss and warming the ocean. While wind gets stronger over the east and west equatorial pacific and  southwest tropical Pacific, enhancing the ocean latent heat loss, cooling the ocean. During Lanina, pattern is opposite with stronger wind and increased ocean latent heat loss in the central Pacific, and weaker wind and reduced ocean latent heat loss over the east and west equatorial Pacific and southwest tropical Pacific.
+<img width="3893" height="1708" alt="regslope_nino34_U10m" src="https://github.com/user-attachments/assets/810ca295-d3ea-400f-8edb-692d5d90dfbb" />
 
 
 
