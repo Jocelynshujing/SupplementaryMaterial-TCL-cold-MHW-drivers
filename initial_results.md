@@ -19,7 +19,7 @@ To examine whether these process likely drive TCL-cold MHWs in Lanina, we can ma
 To check: monthly data in Bran2020, or JRA55.
 
 ### Regression map between Nino3.4 index (X) and net shortwave radiation flux (Y).
-There's a west-east dipole pattern over equatorail pacific ocean. Incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.. 
+There's a west-east dipole pattern over equatorail pacific ocean. During Elnino, incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.. 
 
 <img width="3952" height="1707" alt="regslope_nino34_swflx" src="https://github.com/user-attachments/assets/b4b4d93f-d581-4a56-967b-25bb86537976" />
 
