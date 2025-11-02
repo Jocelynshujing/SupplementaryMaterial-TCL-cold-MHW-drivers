@@ -18,6 +18,18 @@ To examine whether these process likely drive TCL-cold MHWs in Lanina, we can ma
 
 To check: monthly data in Bran2020, or JRA55.
 
+Regression map between Nino3.4 index (X) and net shortwave radiation flux (Y) shows a west-east dipole pattern over equatorail pacific ocean. Incoming solar radiation is decreased across the braod east regions (150E-100W) and increased in the west regions (90E-150E). During lanona, incoming solar radiation is increased across the broad east regions and decreased in the west regions. 
+
+<img width="3952" height="1707" alt="regslope_nino34_swflx" src="https://github.com/user-attachments/assets/b4b4d93f-d581-4a56-967b-25bb86537976" />
+
+
+Regression map between Nino3.4 index (X) and net latent heat flux (Y). During Elnino, evaporation is increased (blue) over the east equatorial Pacific (150W-80W) amd northeast and westsouth trpical pacific, and decreased (red) over the west equatorail Pacific (160E-150W). During lanina, evaporation is decreased over the east equatorial Pacific amd northeast and westsouth trpical pacific, and increased over the west equatorial Pacific. The tropical pacific ocean. 
+
+<img width="3952" height="1707" alt="regslope_nino34_lhflx" src="https://github.com/user-attachments/assets/46a3b3fc-1afc-4239-b23f-b963e432971e" />
+
+
+
+
 ## Hypothesis
 Our hypothesis is these thermocline MHWs in the tropical ocean are dominated by thermocline deepening, driven by multiple mechanisms, like local wind-driven downwelling, planetary waves, as well as ocean warm-core eddies. These MHWs have a preference of cold surface, which could be linked to co-occurrence of enhanced evaporative surface heat loss driven by increased wind.
 ## Planned Analysis 
