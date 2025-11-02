@@ -28,9 +28,9 @@ During Elnino, surface warming is found over central and eastern tropocal Pacifi
 <img width="3880" height="1707" alt="regslope_nino34_sst_tropicalPacific (1)" src="https://github.com/user-attachments/assets/f5808c66-f345-42c6-8985-b1515fc3dfef" />
 
 ### Regression map between Nino3.4 index (X) and net shortwave radiation flux (Y).
-There's a west-east dipole pattern over equatorail pacific ocean. During Elnino, incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.. 
+There's a west-east dipole pattern over equatorail pacific ocean. During Elnino, incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.
+<img width="3949" height="1707" alt="regslope_nino34_swflx (1)" src="https://github.com/user-attachments/assets/c73ca671-7a2e-48cf-b8c7-f026bb2dec79" />
 
-<img width="3952" height="1707" alt="regslope_nino34_swflx" src="https://github.com/user-attachments/assets/b4b4d93f-d581-4a56-967b-25bb86537976" />
 
 ### Regression map between Nino3.4 index (X) and cloud cover (Y).
 There is a west-east dipole over equatorial pacific consistent with net shorwave radiation flux. During Elnino, it's more cloudy across the braod east regions (150E-100W), which reduces the incoming solar radiation, cooling the ocean. While it's more clear sky in the west regions (90E-150E), that allows more solar radiation reach the ocean, warming the ocean. Lanina has opposite pattern with cloudy sky  in the west regions (90E-150E) and clear sky across the braod east regions (150E-100W).
