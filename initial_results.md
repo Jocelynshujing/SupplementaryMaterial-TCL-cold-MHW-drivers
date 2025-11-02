@@ -18,13 +18,14 @@ To examine whether these process likely drive TCL-cold MHWs in Lanina, we can ma
 
 To check: monthly data in Bran2020, or JRA55.
 
-Regression map between Nino3.4 index (X) and net shortwave radiation flux (Y) shows a west-east dipole pattern over equatorail pacific ocean. Incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.. 
+### Regression map between Nino3.4 index (X) and net shortwave radiation flux (Y).
+There's a west-east dipole pattern over equatorail pacific ocean. Incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.. 
 
 <img width="3952" height="1707" alt="regslope_nino34_swflx" src="https://github.com/user-attachments/assets/b4b4d93f-d581-4a56-967b-25bb86537976" />
 
 
-Regression map between Nino3.4 index (X) and net latent heat flux (Y). During Elnino, evaporation is increased (blue) over the east equatorial Pacific (150W-80W) amd northeast and westsouth trpical pacific, and decreased (red) over the west equatorail Pacific (160E-150W). During lanina, evaporation is decreased over the east equatorial Pacific amd northeast and westsouth trpical pacific, and increased over the west equatorial Pacific. The tropical pacific ocean. 
-
+### Regression map between Nino3.4 index (X) and net latent heat flux (Y). 
+During Elnino, evaporation is increased (blue) over the east equatorial Pacific (150W-80W) amd northeast and westsouth trpical pacific, cooling the ocean. While evaporation is decreased (red) over the west equatorail Pacific (160E-150W) warming the ocean. During lanina, pattern is opposite with warming over the east equatorial Pacific (150W-80W) amd northeast and westsouth trpical pacific and cooling over the west equatorail Pacific (160E-150W).
 <img width="3952" height="1707" alt="regslope_nino34_lhflx" src="https://github.com/user-attachments/assets/46a3b3fc-1afc-4239-b23f-b963e432971e" />
 
 
