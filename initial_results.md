@@ -19,10 +19,13 @@ To examine whether these process likely drive TCL-cold MHWs in Lanina, we can ma
 To check: monthly data in Bran2020, or JRA55.
 
 ### Regression map between Nino3.4 index (X) and thermocline depth (Y).
-During Elnino, thermocline gets deepening on eastern tropical Pacific and southwest tropical Pacific, while gets shallow over west tropical Pacific with an eastward extension in 10-20S latitude bands. During Lanina, the pattern is opposite with deepening of thermocline over western tropical Pacific and extension area and shoaling over eastern and southwest tropical Pacific. 
+During Elnino, thermocline gets deepening on eastern tropical Pacific and southwest tropical Pacific, while gets shallow over west tropical Pacific with an eastward extension in 10-25S latitude bands. During Lanina, the pattern is opposite with deepening of thermocline over western tropical Pacific and extension area and shoaling over eastern and southwest tropical Pacific. 
 <img width="3820" height="1428" alt="regslope_nino34_tcd_tropicalPacific (1)" src="https://github.com/user-attachments/assets/bb664cb5-c156-432a-9e98-8f7ac430d267" />
 
 
+### Regression map between Nino3.4 index (X) and sst (Y).
+During Elnino, surface warming is found over central and eastern tropocal Pacific, while cooling is found in western tropcial ocean with an eastward extension in 10-25S latitude bands. During lanina, the pattern is opposite with surface cooling over central and eastern tropocal Pacific, and warming in western tropcial ocean with an eastward extension in 10-25S latitude bands. 
+<img width="3880" height="1707" alt="regslope_nino34_sst_tropicalPacific (1)" src="https://github.com/user-attachments/assets/f5808c66-f345-42c6-8985-b1515fc3dfef" />
 
 ### Regression map between Nino3.4 index (X) and net shortwave radiation flux (Y).
 There's a west-east dipole pattern over equatorail pacific ocean. During Elnino, incoming solar radiation is decreased (blue) across the braod east regions (150E-100W) cooling the ocean and increased (red) in the west regions (90E-150E) warming the ocean. During Lanina, pattern is opposite with warming across the east regions and cooling in the west regions.. 
