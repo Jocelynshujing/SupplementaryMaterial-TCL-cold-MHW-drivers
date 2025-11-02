@@ -20,8 +20,7 @@ To check: monthly data in Bran2020, or JRA55.
 
 ### Regression map between Nino3.4 index (X) and thermocline depth (Y).
 During Elnino, thermocline gets deepening on eastern tropical Pacific and southwest tropical Pacific, while gets shallow over west tropical Pacific with an eastward extension in 10-25S latitude bands. During Lanina, the pattern is opposite with deepening of thermocline over western tropical Pacific and extension area and shoaling over eastern and southwest tropical Pacific. 
-<img width="3820" height="1428" alt="regslope_nino34_tcd_tropicalPacific (1)" src="https://github.com/user-attachments/assets/bb664cb5-c156-432a-9e98-8f7ac430d267" />
-
+<img width="3906" height="1708" alt="regslope_nino34_tcd_tropicalPacific" src="https://github.com/user-attachments/assets/22a1d346-26a7-445c-af09-20ab42e4a6dd" />
 
 ### Regression map between Nino3.4 index (X) and sst (Y).
 During Elnino, surface warming is found over central and eastern tropocal Pacific, while cooling is found in western tropcial ocean with an eastward extension in 10-25S latitude bands. During lanina, the pattern is opposite with surface cooling over central and eastern tropocal Pacific, and warming in western tropcial ocean with an eastward extension in 10-25S latitude bands. 
