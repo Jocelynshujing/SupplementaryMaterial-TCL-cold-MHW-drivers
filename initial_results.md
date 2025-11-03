@@ -44,6 +44,9 @@ During Elnino, evaporation is increased (blue) over the east equatorial Pacific 
 During Elnino, wind gets weaker in the central equatorial Pacificm, desceasing the ocean latent heat loss and warming the ocean. While wind gets stronger over the east and west equatorial pacific and  southwest tropical Pacific, enhancing the ocean latent heat loss, cooling the ocean. During Lanina, pattern is opposite with stronger wind and increased ocean latent heat loss in the central Pacific, and weaker wind and reduced ocean latent heat loss over the east and west equatorial Pacific and southwest tropical Pacific.
 <img width="3893" height="1708" alt="regslope_nino34_U10m" src="https://github.com/user-attachments/assets/810ca295-d3ea-400f-8edb-692d5d90dfbb" />
 
+### Regression map between Nino3.4 index (X) and Wind-induced Ekman pumping velocity (Y).
+During Elnino, when upwelling 
+<img width="3941" height="1709" alt="regslope_nino34_Ekman_upwelling" src="https://github.com/user-attachments/assets/928e9286-8990-4d40-bf2e-df5f18296cff" />
 
 
 ## Hypothesis
