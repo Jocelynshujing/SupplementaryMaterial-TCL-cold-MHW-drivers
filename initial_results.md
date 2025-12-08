@@ -28,6 +28,9 @@ Subsurface temperature changes are consistent to the vertical thermocline shifts
 
 <img width="814" height="1048" alt="image" src="https://github.com/user-attachments/assets/f16c6de8-968b-49e8-b323-287702cf8f37" />
 
+The TCL-cold MHW at the single point (170.5E, 0.5N) of central equatorial Pacific are almost all found during La Nina years, including 2000, 2007-2008, 2011-2012, 2021-2022.
+<img width="1557" height="633" alt="image" src="https://github.com/user-attachments/assets/abf25251-1aef-4117-b0a6-1020bdc9201c" />
+
 ### Ohters
 The 2010 November MHW example suggtes that it's not true that all western tropical ocean during lanina are warm at surface. Some can be cold at surface, but subsurface gets warm. Why?  Many potential mehcanisms: 1) increased cloud cover reduces the incoming solar radiation, so cools the surface. 2) increased wind speed enhances the evaporative heat loss and cools the surface. 3) increased wind stress curl enhances the upwelling and cools the surface. but unlikely since thermocline warming usually suggets a deepening. 2) Increased transport of surface warm water from east to west deepens the thermocline on west, makes subsurface warming.  
 To examine whether these process likely drive TCL-cold MHWs in Lanina, we can make a regression between nino3.4 index and interested atmospheric and oceanic variables, to see how these processes change. Explore if they can explain the TCL-cold hotspots. Variables include cloud cover, wind speed, wind stress curl, thermocline depth, net shortwave radiation.
