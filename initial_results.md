@@ -16,13 +16,20 @@ While on the west (40-90E) and east sides (150-180E), where surface is cold anom
 ### La Nina composite plots
 47 La Nina months are identified when Nino3.4 index exceeds its standard deviation during 1993-2020.
 <img width="826" height="385" alt="image" src="https://github.com/user-attachments/assets/ed6f11a7-8360-4df9-8407-1ff82a477942" />
+
 After a removal the linear temporal trend of the temperature, we calculated monthly temperature anomaly at each depth level and calculated monthly thermocline depth anomaly.
 Then we took the average of thermocline depth anomaly and 5m temperature anomaly among all La Nina months. The countours show the counts of TCL-cold MHW profile within each 5 lat * 10 lon grid cell.   
 
 <img width="1725" height="465" alt="image" src="https://github.com/user-attachments/assets/c24343b5-039e-4a61-9488-8262543b17f1" />
 
+We can also see the vertical profile in each latitudinal section.
+During La Nina, western equatorial Pacific ocean gets warmer at surface, while central and eastern Pacific gets cooler. The surface warming expands towards central with the distances from the equator. Thermocline layer (100-200m) warms/cools greater than the surface. The subsurface warming extends more eastward. It causes a slanted vertical temperature structure beneath the western boundary of surface cooling.
+Subsurface temperature changes are consistent to the vertical thermocline shifts (15S-15N).
+<img width="3380" height="351" alt="image" src="https://github.com/user-attachments/assets/c3883f33-7c43-416e-bc78-3cf3c98501a2" />
 
+<img width="814" height="1048" alt="image" src="https://github.com/user-attachments/assets/f16c6de8-968b-49e8-b323-287702cf8f37" />
 
+### Ohters
 The 2010 November MHW example suggtes that it's not true that all western tropical ocean during lanina are warm at surface. Some can be cold at surface, but subsurface gets warm. Why?  Many potential mehcanisms: 1) increased cloud cover reduces the incoming solar radiation, so cools the surface. 2) increased wind speed enhances the evaporative heat loss and cools the surface. 3) increased wind stress curl enhances the upwelling and cools the surface. but unlikely since thermocline warming usually suggets a deepening. 2) Increased transport of surface warm water from east to west deepens the thermocline on west, makes subsurface warming.  
 To examine whether these process likely drive TCL-cold MHWs in Lanina, we can make a regression between nino3.4 index and interested atmospheric and oceanic variables, to see how these processes change. Explore if they can explain the TCL-cold hotspots. Variables include cloud cover, wind speed, wind stress curl, thermocline depth, net shortwave radiation.
 
