@@ -25,7 +25,6 @@ Then we took the average of thermocline depth anomaly and 5m temperature anomaly
 We can also see the vertical profile in each latitudinal section.
 During La Nina, western equatorial Pacific ocean gets warmer at surface, while central and eastern Pacific gets cooler. The surface warming expands towards central with the distances from the equator. Thermocline layer (100-200m) warms/cools greater than the surface. The subsurface warming extends more eastward. It causes a slanted vertical temperature structure beneath the western boundary of surface cooling.
 Subsurface temperature changes are consistent to the vertical thermocline shifts (15S-15N).
-<img width="3380" height="351" alt="image" src="https://github.com/user-attachments/assets/c3883f33-7c43-416e-bc78-3cf3c98501a2" />
 
 <img width="814" height="1048" alt="image" src="https://github.com/user-attachments/assets/f16c6de8-968b-49e8-b323-287702cf8f37" />
 
