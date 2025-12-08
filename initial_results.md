@@ -13,10 +13,19 @@ In its central regions (90E-150E), where surface water is anomalously warm, MHWs
 While on the west (40-90E) and east sides (150-180E), where surface is cold anomaly, MHWs are dominated by TCL-cold types, although SM-cold type is also present in the equatorial Inidna Ocean. 
 <img width="3510" height="1524" alt="2010Nov_No287_MHWcluster_distribution" src="https://github.com/user-attachments/assets/dc51b881-e3cc-43c0-9026-26210bd97774" />
 
+### La Nina composite plots
+47 La Nina months are identified when Nino3.4 index exceeds its standard deviation during 1993-2020.
+<img width="826" height="385" alt="image" src="https://github.com/user-attachments/assets/ed6f11a7-8360-4df9-8407-1ff82a477942" />
+After a removal the linear temporal trend of the temperature, we calculated monthly temperature anomaly at each depth level and calculated monthly thermocline depth anomaly.
+Then we took the average of thermocline depth anomaly and 5m temperature anomaly among all La Nina months. The countours show the counts of TCL-cold MHW profile within each 5 lat * 10 lon grid cell.   
+
+<img width="1725" height="465" alt="image" src="https://github.com/user-attachments/assets/c24343b5-039e-4a61-9488-8262543b17f1" />
+
+
+
 The 2010 November MHW example suggtes that it's not true that all western tropical ocean during lanina are warm at surface. Some can be cold at surface, but subsurface gets warm. Why?  Many potential mehcanisms: 1) increased cloud cover reduces the incoming solar radiation, so cools the surface. 2) increased wind speed enhances the evaporative heat loss and cools the surface. 3) increased wind stress curl enhances the upwelling and cools the surface. but unlikely since thermocline warming usually suggets a deepening. 2) Increased transport of surface warm water from east to west deepens the thermocline on west, makes subsurface warming.  
 To examine whether these process likely drive TCL-cold MHWs in Lanina, we can make a regression between nino3.4 index and interested atmospheric and oceanic variables, to see how these processes change. Explore if they can explain the TCL-cold hotspots. Variables include cloud cover, wind speed, wind stress curl, thermocline depth, net shortwave radiation.
 
-To check: monthly data in Bran2020, or JRA55.
 
 ### Regression map between Nino3.4 index (X) and thermocline depth (Y).
 During Elnino, thermocline gets deepening on eastern tropical Pacific and southwest tropical Pacific, while gets shallow over west tropical Pacific with an eastward extension in 10-25S latitude bands. During Lanina, the pattern is opposite with deepening of thermocline over western tropical Pacific and extension area and shoaling over eastern and southwest tropical Pacific. 
